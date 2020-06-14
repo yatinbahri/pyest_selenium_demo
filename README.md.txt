@@ -16,14 +16,14 @@
 
 ###To run the test in terminal, navigate to folder where file is saved.
 
-To run all the test file at onece -pytest -s -v 
+To run all the test file at once -pytest -s -v
 
 
 To run individual tests 
 
-- pytest test_beam_repo_actions.py -s -v  # -s will display the print -v will display result 
+- pytest test_pytest_demo.py -s -v  # -s will display the print -v will display result
 
-- pytest test_beam_git_extract.py -s -v
+- pytest test_pytest_demo2.py -s -v
 
 
 ### Run tests on different browsers 
